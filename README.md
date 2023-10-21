@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java, SOA, Micro-services...
+🌱 I’m currently learning GoLang, Micro-services...
 <div style="text-align=center">
   <a href="https://github.com/tadeueliezer21">
 
